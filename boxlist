@@ -81,7 +81,7 @@ Windows Boxes:
 [ ] Secnotes
 [ ] Bastion
 [ ] Arctic
-[ ] Forest
+[x] Forest
 
 More challenging than OSCP, but good practice:
 [ ] Bart [Windows]
